@@ -1,4 +1,3 @@
-# Minecraft-multiplayer
 Version: 1.92.2 (forge 43.2.8) <br />
 Server Address （aternos）: **DoctorCold.aternos.me** <br />
 
