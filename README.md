@@ -14,7 +14,7 @@
 - [物理声效重制版] soundphysics
 
 ### Ver. 1.1
-- [无忧建造] effortlessbuilding
+- effortlessbuilding
 - [全屏输入法修复] IngameIME
 - [连锁破坏] ftb-ultimine
 
@@ -22,7 +22,7 @@
 - [更好的进度] BetterAdvancements
 - [配置界面] configured
 - [模组目录] catalogue
-- [MC百科搜寻] MCMOD-Search-Reborn：默认物品I键搜索
+- MCMOD-Search-Reborn：MC百科搜寻（默认I键搜索）
 - [更多动画] notenoughanimations：第三人称动画
 - [自动汉化更新] I18nUpdateMod
 - [聊天头像] chat_heads
@@ -64,7 +64,7 @@
 
 ## 前置Lib 
 - AutoRegLib: Quark
-- badpackets：wthit
+- <del> badpackets：wthit <del>
 - cloth-config：BetterF3，IngameIME
 - citadel：alexsmobs
 - TerraBlender：BiomesOPlenty
@@ -77,3 +77,7 @@
 
 ### Ver. 1.2
 - CreativeCore
+  
+## Bukkit插件
+- WorldEdit：世界编辑器
+- EssentialsX：指令
