@@ -1,5 +1,6 @@
-游戏版本：1.92.2 (forge 43.2.8) <br />
-服务器地址（aternos）: **DoctorCold.aternos.me** <br />
+服务端版本：1.92.2 (Arclight 43) <br />
+服务器地址（exaroton）: **DoctorCold.exaroton.me** （现已支持自动开启）<br />
+<del> 服务器地址（aternos）: DoctorCold.aternos.me <del> <br />
 
 # Mod列表 <br />
 
@@ -129,8 +130,10 @@
 - PuzzlesLib
 - blueprint
 - YungsApi
-- moonlight-
+- moonlight
  
 ## Bukkit插件
 - WorldEdit：世界编辑器
 - EssentialsX：指令
+- WorldGuard
+- Vault
