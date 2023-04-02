@@ -1,5 +1,6 @@
-游戏版本：1.92.2 (forge 43.2.8) <br />
-服务器地址（aternos）: **DoctorCold.aternos.me** <br />
+服务端版本：1.92.2 (Arclight 43) <br />
+服务器地址（exaroton）: **DoctorCold.exaroton.me** （现已支持自动开启）<br />
+<del> 服务器地址（aternos）: DoctorCold.aternos.me <del> <br />
 
 # Mod列表 <br />
 
@@ -35,15 +36,50 @@
 - JustEnoughResources：怪物掉落率，矿物生成，地牢战利品
 - [亮度覆盖] light-overlay：刷怪区域显示
 
+### Ver. 2.0
+- TravelersTitles
+- [搬运] carryon
+- [JEI药水效果] jeed
+- [多态合成] polymorph
+- [拾取提示] PickUpNotifier
+- [落叶] Fallingleaves
+- [自然罗盘／生物群系指南针] NaturesCompass
+
+### Ver. 2.1
+- jeimultiblocks
+- [战利品光束] lootbeams
+
 ## 内容扩展
+- [暮色森林] twilightforest
 - [Alex 的生物] alexsmobs：[详细](https://www.bilibili.com/video/BV1uQ4y1X78P/?spm_id_from=333.880.my_history.page.click)
 - [夸克] Quark：各类调整，[详细](https://www.bilibili.com/video/BV1TN4y1M7Gv/?spm_id_from=333.999.0.0) 
 - [旅行者背包] TravelersBackpack
 - [超多生物群系] BiomesOPlenty
 
+### Ver. 2.0
+- [机械动力] create
+- createaddition
+- [机械动力：物品附加] create-stuff-additions
+- [你将去的生物群系] Oh_The_Biomes_You'll_Go'
+- [MrCrayfish的枪] cgm
+- [悠然一派] atmospheric
+- [秋原] autumnity
+- [自然环境] environmental
+- [YUNG的桥] YungsBridges
+- YungsExtras
+- [YUNG的要塞重制] YungsBetterStrongholds
+- [YUNG的矿井优化] YungsBetterMineshafts
+- [YUNG的地牢优化] YungsBetterDungeons
+- [农夫乐事] FarmersDelight
+- [水产业2／水产品2] Aquaculture
+- [静谧四季／季节] SereneSeasons
+- [更多村民] morevillagers
+- [锦致装饰] supplementaries
+- [储物抽屉] StorageDrawers
 
-## 维度
-- [暮色森林] twilightforest
+### Ver. 2.1
+- [沉浸工程] ImmersiveEngineering
+
 
 ## 性能优化
 - rubidium
@@ -54,13 +90,21 @@
 
 ### Ver. 1.2
 - [经验机制改革] Clumps
-- lightspeed
+- <del> lightspeed <del>
 - betterfpsdist
 - [树叶渲染优化] cullleaves
 - [实体渲染机制优化] entityculling
 - [铁氧体磁芯] ferritecore
 - [FPS减速器] FpsReducer2
-- [DFU载入优化] lazydfu
+- <del> [DFU载入优化] lazydfu <del>
+
+### Ver. 2.0
+- [AI改进] AI-Improvements
+- BetterCompatibilityChecker
+- [动态视距] dynview
+- farsight
+
+
 
 ## 前置Lib 
 - AutoRegLib: Quark
@@ -70,6 +114,7 @@
 - TerraBlender：BiomesOPlenty
 - flywheel： effortlessbuilding
 
+
 ### Ver. 1.1
 - kotlinforforge： IngameIME
 - architectury：ftb-ultimine
@@ -78,6 +123,17 @@
 ### Ver. 1.2
 - CreativeCore
   
+### Ver. 2.0
+- geckolib
+- CorgiLib
+- framework
+- PuzzlesLib
+- blueprint
+- YungsApi
+- moonlight
+ 
 ## Bukkit插件
 - WorldEdit：世界编辑器
 - EssentialsX：指令
+- WorldGuard
+- Vault
