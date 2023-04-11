@@ -32,7 +32,7 @@
 - [机械动力：附魔工业] create_enchantment_industry
 - [机械动力：异彩化合物] create-chromaticreturn：已自行汉化（部分）
 - [机械动力：中央厨房] create_central_kitchen
-- [机械动力：枪械] createarmory：已取消所有配方，用已辅助魔改
+- [机械动力：枪械] createarmory：已取消所有配方，用以辅助魔改
 - [机械动力：区块加载] createchunkloading
 - [机械动力：装饰方块] createdeco
 - [机械动力：护目镜] creategoggles
@@ -61,7 +61,7 @@
 - [暮色森林] twilightforest
 
 ### Ver. 2.0
-- [MrCrayfish的枪] cgm：已魔改配方已配合机械动力
+- [MrCrayfish的枪] cgm：已魔改配方以配合机械动力
 
 ### Ver. 2.2
 - [更好的战斗] bettercombat
